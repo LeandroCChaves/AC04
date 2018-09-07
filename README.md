@@ -2,8 +2,6 @@
 # Leandro Chaves da Silva RA: 1800839
 # George Alves de Oliveira RA: 1800191
 
-
-
 label {
     
     display: inline-block;
